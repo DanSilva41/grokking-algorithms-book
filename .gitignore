@@ -131,3 +131,4 @@ logs/
 /.classpath
 coverage/
 /HELP.md
+/build/
